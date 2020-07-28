@@ -1,0 +1,26 @@
+.palco{
+    text-align: center;
+    border: none;
+    box-shadow: 5px 5px 5px 5px #127e02;
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    margin-left: 430px;
+    margin-top: 20px;
+    padding: 30px;
+} 
+h1, img{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: seagreen;
+}
+#stage{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.footer{
+    margin-top: 20px;
+    margin-left: 33%;
+    color: #127e02 ;
+}
+.link{
+    color: #127e02 ;
+}
